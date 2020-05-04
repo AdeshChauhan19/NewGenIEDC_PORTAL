@@ -262,10 +262,10 @@ $(function () {
     { value: 'Rishabh Singh | B-Plan Pitch Perfect Competition', data: '<a href="https://drive.google.com/open?id=1cxnrj85clbXCicjlH4UVAOl0rek6VzIS" target="_blank" download="https://drive.google.com/open?id=1cxnrj85clbXCicjlH4UVAOl0rek6VzIS">Download</a>' },
     { value: 'Shubhankar | B-Plan Pitch Perfect Competition', data: '<a href="https://drive.google.com/open?id=1xYCs66amJIo8_3KVL-vPQQvUbZPDjFxP" target="_blank" download="https://drive.google.com/open?id=1xYCs66amJIo8_3KVL-vPQQvUbZPDjFxP">Download</a>' },
     { value: 'Tarun Raghav | B-Plan Pitch Perfect Competition', data: '<a href="https://drive.google.com/open?id=1_9gp7AcEjoX0O_eJDvrVh4mdbQW0euNI" target="_blank" download="https://drive.google.com/open?id=1_9gp7AcEjoX0O_eJDvrVh4mdbQW0euNI">Download</a>' },
-    { value: 'Ayush Singhal | Winners | IPL Mock Auction | 1', data: '<a href="https://drive.google.com/open?id=1q5BM8GNr58ccTG9zaoQpSjWDs_zcE-8H" target="_blank" download="https://drive.google.com/open?id=1q5BM8GNr58ccTG9zaoQpSjWDs_zcE-8H">Download</a>' },
+    
     { value: 'Mridul Sharma | Winners | B-PLAN Pitch Perfect | 2', data: '<a href="https://drive.google.com/open?id=12V09JaC1_HtjB3C2w6dJ7mxdSPzEsxft" target="_blank" download="https://drive.google.com/open?id=12V09JaC1_HtjB3C2w6dJ7mxdSPzEsxft">Download</a>' },
-    { value: 'Pawan Agarwal | Winners | IPL Mock Auction | 2', data: '<a href="https://drive.google.com/open?id=1XrK2uKM_DE1juxg_U8BRqVvTx5xp4m-7" target="_blank" download="https://drive.google.com/open?id=1XrK2uKM_DE1juxg_U8BRqVvTx5xp4m-7">Download</a>' },
-    { value: 'Rachit Khadelwal | Winners | IPL Mock Auction | 2', data: '<a href="https://drive.google.com/open?id=1VcpwIZLhQF2pE22R6SCjBf3_QiEjeckR" target="_blank" download="https://drive.google.com/open?id=1VcpwIZLhQF2pE22R6SCjBf3_QiEjeckR">Download</a>' },
+    
+    
     { value: 'Rachit Yadav | Winners | B-PLAN Pitch Perfect | 2', data: '<a href="https://drive.google.com/open?id=1xkEjEKh9QMzB8dluNdmP0A6AxltQ72ib" target="_blank" download="https://drive.google.com/open?id=1xkEjEKh9QMzB8dluNdmP0A6AxltQ72ib">Download</a>' },
     { value: 'Raghav Bansal | Winners | B-PLAN Pitch Perfect | 2', data: '<a href="https://drive.google.com/open?id=1ml7v9yphvHBuYpT_3IYJytahRhA1LQp0" target="_blank" download="https://drive.google.com/open?id=1ml7v9yphvHBuYpT_3IYJytahRhA1LQp0">Download</a>' },
     { value: 'Raghav Rohtagi | Winners | B-PLAN Pitch Perfect | 1', data: '<a href="https://drive.google.com/open?id=1OJkQug2AgVFrAbUu3r-zWlJV2fsC3dUA" target="_blank" download="https://drive.google.com/open?id=1OJkQug2AgVFrAbUu3r-zWlJV2fsC3dUA">Download</a>' },
@@ -273,12 +273,12 @@ $(function () {
     { value: 'Rishabh Sharma | Winners | B-PLAN Pitch Perfect | 3', data: '<a href="https://drive.google.com/open?id=1j4axMaf4GMaD6fiZgD8AwJxCfsaa9Gq6" target="_blank" download="https://drive.google.com/open?id=1j4axMaf4GMaD6fiZgD8AwJxCfsaa9Gq6">Download</a>' },
     { value: 'Rishabh Singh | Winners | B-PLAN Pitch Perfect | 3', data: '<a href="https://drive.google.com/open?id=1D97gbi784jOZAiDlM-eJUitYcQcSCmss" target="_blank" download="https://drive.google.com/open?id=1D97gbi784jOZAiDlM-eJUitYcQcSCmss">Download</a>' },
     { value: 'Shakti Jaiswal | Winners | B-PLAN Pitch Perfect | 2', data: '<a href="https://drive.google.com/open?id=1m3cN3334ouP-QwMqBL1_F-1EUrXYY4x1" target="_blank" download="https://drive.google.com/open?id=1m3cN3334ouP-QwMqBL1_F-1EUrXYY4x1">Download</a>' },
-    { value: 'Shubham Yadav | Winners | IPL Mock Auction | 1', data: '<a href="https://drive.google.com/open?id=1Mor2MmG6NnuJg_wkpxP1ayMm3YEB6OjS" target="_blank" download="https://drive.google.com/open?id=1Mor2MmG6NnuJg_wkpxP1ayMm3YEB6OjS">Download</a>' },
+    
     { value: 'Tarun Raghav | Winners | B-PLAN Pitch Perfect | 3', data: '<a href="https://drive.google.com/open?id=1cEfB-JizcrhaBm93UbcWVB4qth5FE6cW" target="_blank" download="https://drive.google.com/open?id=1cEfB-JizcrhaBm93UbcWVB4qth5FE6cW">Download</a>' },
     { value: 'Vibhor Kumar | Winners | B-PLAN Pitch Perfect | 3', data: '<a href="https://drive.google.com/open?id=1rHa0gzalJX-o5NT4QvquHuf1z0bXtoL3" target="_blank" download="https://drive.google.com/open?id=1rHa0gzalJX-o5NT4QvquHuf1z0bXtoL3">Download</a>' },
-    { value: 'Vimal Mishra | Winners | IPL Mock Auction | 1', data: '<a href="https://drive.google.com/open?id=1vZynX0nVQF7RseRbSyqHprI_B0YTw0Dw" target="_blank" download="https://drive.google.com/open?id=1vZynX0nVQF7RseRbSyqHprI_B0YTw0Dw">Download</a>' },
+    
     { value: 'Vishal Negi | Winners | B-PLAN Pitch Perfect | 2', data: '<a href="https://drive.google.com/open?id=1F8-NKAITWNIvpwBBNwXg-czqjLjBuZA_" target="_blank" download="Google drive link">Download</a>' },
-    { value: 'Yash Gupta | Winners | IPL Mock Auction | 2', data: '<a href="https://drive.google.com/open?id=1tIqtWs_mD0P5wWpvR2IMLoC1-4sBA6Ii" target="_blank" download="https://drive.google.com/open?id=1tIqtWs_mD0P5wWpvR2IMLoC1-4sBA6Ii">Download</a>' },
+   
 
 
   ];
